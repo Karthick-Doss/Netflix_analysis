@@ -48,10 +48,11 @@ Designed for quick lookup and comparative analysis of individual content pieces.
 6.) Results & Impact
 Delivered a clean, interactive Power BI dashboard for easy exploration of Netflix’s content library.
 Provided a clear understanding of content trends, genre dominance, and regional distribution.
+Improved ability to perform ad-hoc title lookups and quick comparisons through the single-title view.
 
 7.) Screenshots/ Demos
 Show what the dashboards look like - 
-overview - https://github.com/Karthick-Doss/Netflix_analysis/blob/main/Overview.png
-single title overview - 
+Overview - https://github.com/Karthick-Doss/Netflix_analysis/blob/main/Overview.png
+Single title overview - https://github.com/Karthick-Doss/Netflix_analysis/blob/main/Single_title_overview.png
 
-Improved ability to perform ad-hoc title lookups and quick comparisons through the single-title view.
+
