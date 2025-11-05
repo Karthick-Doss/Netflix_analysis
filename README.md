@@ -51,7 +51,8 @@ Provided a clear understanding of content trends, genre dominance, and regional 
 Improved ability to perform ad-hoc title lookups and quick comparisons through the single-title view.
 
 7.) Screenshots/ Demos
-Show what the dashboards look like - 
+Show what the dashboards look like 
+
 Overview 
 ![Dashboard preview](https://github.com/Karthick-Doss/Netflix_analysis/blob/main/Overview.png)
 Single title overview 
