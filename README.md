@@ -52,7 +52,8 @@ Improved ability to perform ad-hoc title lookups and quick comparisons through t
 
 7.) Screenshots/ Demos
 Show what the dashboards look like - 
-Overview - https://github.com/Karthick-Doss/Netflix_analysis/blob/main/Overview.png
-Single title overview - https://github.com/Karthick-Doss/Netflix_analysis/blob/main/Single_title_overview.png
-
+Overview 
+![Dashboard preview](https://github.com/Karthick-Doss/Netflix_analysis/blob/main/Overview.png)
+Single title overview 
+![Dashboard preview](https://github.com/Karthick-Doss/Netflix_analysis/blob/main/Single_title_overview.png)
 
